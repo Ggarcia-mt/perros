@@ -54,6 +54,14 @@ div.galeria{
     height: 300px;
     margin: 10px auto;
 }
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding: 20px;
+    font-size: 22px;
+    text-align: center;
+}
 
 @media only screen and (max-width: 576px){
     .prime h2{
